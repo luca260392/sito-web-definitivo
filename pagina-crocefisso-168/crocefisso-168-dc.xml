@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<metadata
+  xmlns="http://example.org/myapp/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.org/myapp/ http://example.org/myapp/schema.xsd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>
+    CROCEFISSO 168
+  </dc:title>
+  <dc:description>
+    OGGETTO
+Definizione: dipinto
+
+Identificazione: opera isolata
+
+Disponibiltà del bene: reale
+
+SOGGETTO
+Categoria generale: sacro
+
+Identificazione: Cristo crocifisso
+
+Titolo: Crocefisso 168
+  </dc:description>
+  <dc:publisher>
+    Autore/Nome scelto: Congdon Grosvenor, William
+  </dc:publisher>
+  <dc:data>
+    Secolo: sec. XX
+
+Da: 1977
+
+Validità: post
+
+A: 1977
+
+Validità: ante
+  </dc:data>
+
+</metadata>
